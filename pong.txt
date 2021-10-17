@@ -1,6 +1,6 @@
 # Input sentinel?
 1→Z
-Game tick
+# Game tick
 0→W
 # Tick length
 2→V
