@@ -1,3 +1,4 @@
+```perl
 # Input sentinel?
 1→Z
 # Game tick
@@ -115,3 +116,4 @@ End
 
 # Loop forever
 Goto 1
+```
