@@ -1,4 +1,4 @@
-# TI Pong
+# TI-PONG
 *Pong written in [TI-BASIC](https://en.wikipedia.org/wiki/TI-BASIC).*
 
 TI-Pong is an old TI-BASIC program I wrote in high school.
