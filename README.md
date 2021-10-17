@@ -3,6 +3,10 @@
 
 TI-Pong is an old TI-BASIC program I wrote in high school.
 
+# Controls
+* Player 1 moves with <kbd>2nd</kbd> and <kbd>ALPHA</kbd>.
+* Player 2 moves with <kbd>▲</kbd> and <kbd>▼</kbd>.
+
 # Files
 | File | Description |
 | --- | --- |
