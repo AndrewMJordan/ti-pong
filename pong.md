@@ -14,7 +14,7 @@
 3→Y
 # Ball velocity
 (randInt(0,1)*2)-1→S
-(randInd(0,1)*2)-1→T
+(randInt(0,1)*2)-1→T
 # P1 score
 0→A
 # P2 score
